@@ -4,8 +4,6 @@
 
 1. [Google AI Studioの「Get API Key」](https://aistudio.google.com/app/apikey)に移動します。
 2. 
-# 参考
-## 1. [onikarubiさん](https://github.com/onikarubi/genai/blob/master/main.js)
 
 # 社会資源コンシェルジュ
 
@@ -37,6 +35,9 @@ Google AI StudioでAPIキーを取得するには以下の手順に従ってく�
 - 利用規約の同意画面のスクリーンショット
 - APIキーの作成画面のスクリーンショット
 - APIキーのコピーのスクリーンショット
+- 
+# 参考
+## 1. [onikarubiさん](https://github.com/onikarubi/genai/blob/master/main.js)
 
 ## ライセンス
 
