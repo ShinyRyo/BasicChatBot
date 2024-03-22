@@ -1,10 +1,3 @@
-# BasicChatBot
-
-### APIキーの取得方法
-
-1. [Google AI Studioの「Get API Key」](https://aistudio.google.com/app/apikey)に移動します。
-2. 
-
 # 社会資源コンシェルジュ
 
 社会資源コンシェルジュは、必要な社会資源情報を検索しやすくするためのWebアプリケーションです。このツールは、GitHub Pages上で直接使用することができます。
