@@ -24,12 +24,15 @@ Google AI StudioでAPIキーを取得するには以下の手順に従ってく�
 **注意：APIキーは秘密にしてください。**
 
 利用規約の同意、APIキーの作成、APIキーのコピーのスクリーンショットはこちらです：
-
+利用規約の同意画面のスクリーンショット
 ![利用規約の同意画面のスクリーンショット](images/Screenshot_20240322-171145.png)
+APIキーの作成画面のスクリーンショット1
 ![APIキーの作成画面のスクリーンショット1](images/Screenshot_20240322-171212.png)
+APIキーの作成画面のスクリーンショット2
 ![APIキーの作成画面のスクリーンショット2](images/Screenshot_20240322-171227.png)
-- APIキーのコピーのスクリーンショット
-- 
+APIキーのコピーのスクリーンショット
+![APIキーのコピーのスクリーンショット](images/Screenshot_20240322-171252 (1).png)
+
 # 参考
 ## 1. [onikarubiさん](https://github.com/onikarubi/genai/blob/master/main.js)
 
